@@ -1,0 +1,182 @@
+---------------------------------------------------------------
+MYTHERESA : Online Platform for all luxury items
+---------------------------------------------------------------
+Customer Service Team at +49 89 127695-101 or customercare@mytheresa.com
+
+Welcome to MYTHERESA, online platform for all luxury items! 
+This platform only provide new and genuine luxury item.
+
+1. Please enter your full name: 
+yap jia jun
+2. Please enter your gender: 
+male
+Please select our system advisory before you purchase any of the clothes package. enter 'y' to continue with our shop advisory system and 'n' for no
+y
+Welcome Dear customer, Thank you very much for choosing our shop!
+Dear customer, we will recommend the most suitable clothes package for you!
+We want to thank you for trusting our shop advisory.
+
+Now, let's find the ideal item for you.
+===Clothes package===
+   1.  Package A   (Casual Clothes)|
+   Consists of: Tee           | RM 450
+                Pants         | RM 950
+                Sweater       | RM 1000
+   Total original price           = RM 2400
+   2.  Package B   (Comfy Clothes)|
+   Consists of: Shorts        | RM 580
+                Blouse        | RM 1450
+                Hoodies       | RM 680
+   Total original price           = RM 2710
+   3.  Package C   (Formal Clothes For Women)|
+   Consists of: Skirt         | RM 650
+                Dress         | RM 3500
+                Jacket        | RM 840
+   Total original price           = RM 4990
+   4.  Package D   (Formal Clothes For Men)|
+   Consists of: Polo shirt    | RM 550
+                Suit jacket   | RM 2000
+                Coat          | RM 3800
+   Total original price           = RM 6350
+
+Enter the number of clothes package price that are going to be compared:
+4
+Enter the price for each of the clothes package:
+2400
+2710
+4990
+6350
+The most expensive clothes package price : 6350
+The most economic clothes package price : 2400
+Customer you're advised to choose according to your own capability!
+**************************************************************
+Choose Package A! If you're looking for some casual clothes.
+Choose Package B! If you're looking for some comfy clothes.
+Choose the Package C! If you are a female customer and ready for some formal places.
+Choose the Package D! If you are a male customer and ready for some formal places.
+**************************************************************
+Once again thank you for choosing our shop advisory!
+We hope that it will help you and see you next time!
+
+**************************************************************
+===Clothes package===
+   1.  Package A   |
+   Consists of: Tee           | RM 450
+                Pants         | RM 950
+                Sweater       | RM 1000
+   Total original price           = RM 2400
+   2.  Package B   |
+   Consists of: Shorts        | RM 580
+                Blouse        | RM 1450
+                Hoodies       | RM 680
+   Total original price           = RM 2710
+   3.  Package C   |
+   Consists of: Skirt         | RM 650
+                Dress         | RM 3500
+                Jacket        | RM 840
+   Total original price           = RM 4990
+   4.  Package D   |
+   Consists of: Polo shirt    | RM 550
+                Suit jacket   | RM 2000
+                Coat          | RM 3800
+   Total original price           = RM 6350
+
+Please select the clothes package: 
+
+===Size Selection===
+
+ Extra Large 
+ Large 
+ Medium 
+ Small  
+ Extra Small  
+
+Please select your size for clothes: 
+1 and large
+
+Do you want to add-on any other packages? 
+===Clothes package===
+   1.  Package A   |
+   Consists of: Tee           | RM 450
+                Pants         | RM 950
+                Sweater       | RM 1000
+   Total original price           = RM 2400
+   2.  Package B   |
+   Consists of: Shorts        | RM 580
+                Blouse        | RM 1450
+                Hoodies       | RM 680
+   Total original price           = RM 2710
+   3.  Package C   |
+   Consists of: Skirt         | RM 650
+                Dress         | RM 3500
+                Jacket        | RM 840
+   Total original price           = RM 4990
+   4.  Package D   |
+   Consists of: Polo shirt    | RM 550
+                Suit jacket   | RM 2000
+                Coat          | RM 3800
+   Total original price           = RM 6350
+
+Please select the clothes package: 
+1 and 2
+===Size Selection===
+
+ Extra Large 
+ Large 
+ Medium 
+ Small  
+ Extra Small  
+
+Please select your size for clothes: 
+medium and large
+
+===Membership===
+**10% offer will be given for the first item with membership and 25% discount on the second one.
+**FREE Shipping is available for every membership
+
+1. Do you have membership? Please enter 'yes' or 'no' yes
+
+2. Please enter the ID number for the customer with membership and non-membership will need to enter '-' 220345
+
+3. Your membership is going to expired. Do you want to renew it? Please enter 'yes' or 'no' yes
+
+4. Enter number '1' which is RM 20 for another 1 year membership. Would you like to renew it?1
+
+===Order Confirmation===
+
+The clothes package you choose is: 1 and 2
+
+The size you choose is: medium and large
+
+The quantity you needed for each package is: 1
+
+Please enter the total price for the first clothes package: 
+   1.  Package A                   = RM 2400
+   2.  Package B                   = RM 2710
+   3.  Package C                   = RM 4990
+   4.  Package D                   = RM 6350 
+2400
+Please enter the total price for the second clothes package: 
+   1.  Package A                   = RM 2400
+   2.  Package B                   = RM 2710
+   3.  Package C                   = RM 4990
+   4.  Package D                   = RM 6350 
+2710
+===Payment===
+
+Do you want to pay by cash or by online banking? Please enter '1' for cash and '2' for online banking.
+2
+Please enter your account username : yap jia jun
+Please enter your password : 
+123456
+Please re-enter your password : 
+123456
+Correct password. 
+Total price with membership fee    =  RM 5130.00
+Membership discount                =  RM  917.50
+The price with membership discount =  RM 4212.50
+Total amount paid  =  RM 4212.50
+The amount is already deducted from your account.
+Thank you for using MYTHERESA!
+Hope you enjoy while using our platform!
+Please come and visit our platform again!
